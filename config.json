@@ -1,0 +1,11 @@
+
+
+{
+    "share_point": 
+        {
+            "user": "{email_address}",
+            "password": "{pwd}",
+            "url": "https://{subdomain}.sharepoint.com",
+            "site": "https://{subdomain}.sharepoint.com/sites/{site_name}/"
+        }
+}
